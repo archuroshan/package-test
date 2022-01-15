@@ -1,0 +1,14 @@
+{
+    "name": "archuroshan/package-test",
+    "description": "This is a test packager",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ArchuRoshan",
+            "email": "shresthaarchuroshan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
